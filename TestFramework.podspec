@@ -8,7 +8,7 @@ Pod::Spec.new do |s|
           #4.
           s.homepage        = "http://www.yudiz.com"
           #5.
-          s.license              = "Inscripts"
+          s.license              = ""
           #6.
           s.author               = "CometChat"
           #7.
